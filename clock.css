@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    padding:0%;
+    background-color: rgb(86, 106, 128);
+}
+.box{
+    border-radius: 7px;
+    box-shadow: 6px 5px 5px rgb(118, 76, 76);
+    box-sizing:border-box;
+    background-color: rgb(67, 84, 101);
+    width: 50%;
+
+}
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(64, 42, 42);
+    font-weight: bold;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+   
+    border-radius: 7px;
+    width: 60%;
+}
